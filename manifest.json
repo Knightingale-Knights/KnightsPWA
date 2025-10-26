@@ -1,7 +1,7 @@
 {
   "name": "Knightingale",
   "short_name": "Knightingale",
-  "start_url": "/",
+  "start_url": "https://knightingale.com.au/knightingale",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
